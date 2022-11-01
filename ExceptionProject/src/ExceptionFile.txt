@@ -1,0 +1,6 @@
+java.lang.ArithmeticException: / by zero
+John Smith
+Mike Friedman
+Frank Naka
+Joel Bennis
+Program closed successfully.
